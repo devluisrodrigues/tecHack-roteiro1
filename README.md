@@ -4,6 +4,10 @@ Aluno: Luis Antonio Santana Rodrigues
 
 --------------------------------------------------
 
+![Imagem da interface](./imgs/init.png)
+
+--------------------------------------------------
+
 ## 1. Introdução
 
 O objetivo deste roteiro é apresentar o trabalho desenvolvido pelo aluno no roteiro 1 da disciplina de Tecnologias Hacker. O trabalho consiste em desenvolver uma ferramenta similar ao nmap, estudado em sala. Para isso, foi feito um programa em Python capaz de realizar a análise de portas de um determinado host ou realizar a análise da rede em que está inserido e identificar os hosts ativos.
