@@ -137,3 +137,6 @@ UDP Scanning:
 
 IPV6
 - https://www.geeksforgeeks.org/python-simple-port-scanner-with-sockets/
+
+Well-Know Ports:
+- https://github.com/maraisr/ports-list/blob/main/tcp.csv
